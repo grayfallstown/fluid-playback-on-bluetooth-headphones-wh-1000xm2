@@ -18,6 +18,12 @@ Fluid playback, as long as the program runs.
 
 [Version v1.0.0](https://github.com/grayfallstown/fluid-playback-on-bluetooth-headphones-wh-1000xm2/releases/download/v1.0.0/fluid-playback-on-bluetooth-headphones-wh-1000xm2.exe)
 
+## Credits
+
 Logo created with [Microsoft Designer](https://designer.microsoft.com/)
 
 Based on [go oto example](https://github.com/ebitengine/oto/blob/main/example/main.go)
+
+## License
+
+[Apache 2](LICENSE)
