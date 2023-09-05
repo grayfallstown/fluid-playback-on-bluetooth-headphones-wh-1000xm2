@@ -14,4 +14,4 @@ Fluid playback, as long as the program runs.
 
 Logo created with [Microsoft Designer](https://designer.microsoft.com/)
 
-Based on [go oto example](based on https://github.com/ebitengine/oto/blob/main/example/main.go)
+Based on [go oto example](https://github.com/ebitengine/oto/blob/main/example/main.go)
