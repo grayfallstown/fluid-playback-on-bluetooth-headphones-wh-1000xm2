@@ -1,4 +1,4 @@
-module github.com/grayfallstown/wh-1000xm2-fix-for-delayed-pause-play-buffer-issue
+module github.com/grayfallstown/fluid-playback-on-bluetooth-headphones-wh-1000xm2
 
 go 1.20
 

@@ -13,3 +13,5 @@ Fluid playback, as long as the program runs.
 ### ⚠ Will show an Unknown Developer Warning on Windows
 
 Logo created with [Microsoft Designer](https://designer.microsoft.com/)
+
+Based on [go oto example](based on https://github.com/ebitengine/oto/blob/main/example/main.go)

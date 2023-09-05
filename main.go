@@ -30,9 +30,16 @@ import (
 )
 
 func main() {
+	fmt.Println(``)
+	fmt.Println(`Fluid playback on Bluetooth headphones`)
+	fmt.Println(``)
+
 	fmt.Println(`The playback/buffering issue should now be drastically reduced or gone as long as this program runs.`)
 	fmt.Println(`Technically it just outputs an endless unhearable sound with 0hz, to keep the sound stream to your headphones active.`)
 	fmt.Println(`This can impact battery life, but at least your headphone are usable now.`)
+
+	fmt.Println()
+	fmt.Println(`https://github.com/grayfallstown/fluid-playback-on-bluetooth-headphones-wh-1000xm2`)
 
 	for {
 		if err := run(); err != nil {
